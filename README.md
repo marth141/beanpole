@@ -1,7 +1,7 @@
 # Beanpole
 
 ## Description
-Beanpole is suppose to be a quick reference on how to send and receive HTTP REST Methods.
+Beanpole is suppose to be a quick reference on how to send and receive HTTP REST Methods. Using Finch.
 
 ## Usage
 
